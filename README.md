@@ -1,9 +1,8 @@
-# TP1_2022
+# Entregas
 Ander Egg Marcos
 <p>
 Artero Francisco
   <p>
 Consorte Franco
     <p>
-Ferrero Juan Marcos
-      <p>
+
